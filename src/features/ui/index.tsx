@@ -1,8 +1,6 @@
 import React from 'react';
 import { View } from 'react-native';
 
-const App = () => {
+export const Hellow = () => {
   return <View />;
 };
-
-export default App;
