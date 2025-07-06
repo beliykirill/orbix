@@ -1,0 +1,8 @@
+{
+  "title": "Курсы валют",
+  "loading": "Загрузка...",
+  "coin_name": "{{ name }} ({{ symbol }})",
+  "price_change_increased": "▲ {{ count }}%",
+  "price_change_decreased": "▼ {{ count }}%",
+  "currency_with_value": "{{ count }}₽"
+}

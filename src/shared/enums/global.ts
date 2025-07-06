@@ -1,0 +1,3 @@
+export enum ASYNC_STORAGE_VARIABLES {
+  LANGUAGE = 'LANGUAGE',
+}
