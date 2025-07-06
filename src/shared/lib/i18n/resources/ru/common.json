@@ -1,0 +1,3 @@
+{
+  "currency_with_value": "{{ count }}₽"
+}
